@@ -1,0 +1,18 @@
+Water textures :
+    https://www.textures.com/download/WaterPlain0017/14169
+    
+Beach textures :
+    https://www.textures.com/download/SoilBeach0131/106132
+
+Skybox (Unimplemented): 
+    https://learnopengl.com/Advanced-OpenGL/Cubemaps
+    https://github.com/SonarSystems/Modern-OpenGL-Tutorials/tree/master/%5BADVANCED%20OPENGL%5D/%5B17%5D%20Cubemap:Skybox
+
+Tree model & texutres :
+    https://free3d.com/3d-model/low_poly_tree-816203.html
+
+Map creation : By us in Java, with reference of :
+    https://www.geeksforgeeks.org/image-processing-in-java-creating-a-random-pixel-image/
+
+Boat texture :
+    https://www.turbosquid.com/3d-models/3d-pirate-boat-model-1266441
